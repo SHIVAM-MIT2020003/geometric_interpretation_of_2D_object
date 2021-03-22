@@ -1,0 +1,11 @@
+.idea
+__pycache__
+models/*
+transfer_learning_weights/*.weights
+custom_object_detection/*.weights
+custom_object_detection/sample_images/*.jpg
+custom_object_detection/sample_images/*.jpeg
+custom_object_detection/sample_images/*.png
+images/*.jpg
+images/*.png
+images/*.jpeg
